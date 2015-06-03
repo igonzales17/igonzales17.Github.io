@@ -1,14 +1,14 @@
 body{
   background-color: red;
 }
-H1 { color:Green;}
+H1 { color:Green;Font-family:Impact;}
 
 H2 { color:Blue; Font-family:Impact; } 
 
-H3 { color:yellow; }
+H3 { color:yellow;Font-family:Impact; }
 
-H4 { color:purple; }
+H4 { color:purple; Font-family:Impact;}
 
-H5 { color:white;}
+H5 { color:white;Font-family:Impact;}
 
-H6 { color:black;} 
+H6 { color:black;Font-family:Impact;} 
